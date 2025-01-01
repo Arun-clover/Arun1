@@ -6,15 +6,26 @@ input{
     font-size: 16px;
 }
 button{
-    border-radius: 20%;
+    border-radius: 45%;
     background-color: green;
     color: white;
    font-size: 20px;
 }
 body{
     text-align: center;
+    background-image: url("img.jpg");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #result{
  background-color: darkgreen;
- 
+ color: white;
+ font-size: 75px;
+}
+hr{
+    border: solid;
+}
+h1{
+    font-size:50px;
 }
