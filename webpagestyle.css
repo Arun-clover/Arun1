@@ -13,10 +13,6 @@ button{
 }
 body{
     text-align: center;
-    background-image: url("img.jpg");
-    background-position: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 #result{
  background-color: darkgreen;
